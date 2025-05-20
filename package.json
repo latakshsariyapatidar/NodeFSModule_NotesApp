@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_notes_cli",
+  "version": "1.0.0",
+  "description": "NodeJS Based CLI to manage Notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lataksh Sariya",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dayjs": "^1.11.13",
+    "inquirer": "^12.6.1"
+  },
+  "type": "module"
+}
